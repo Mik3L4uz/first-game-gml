@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"acr_macros",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"acr_macros",
+  "parent":{
+    "name":"scripts",
+    "path":"folders/scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}
